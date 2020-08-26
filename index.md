@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sam's Digital Media Portfolio
 
 You can use the [editor on GitHub](https://github.com/samgustafson/digitalmediaportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
